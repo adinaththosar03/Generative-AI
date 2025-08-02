@@ -1,0 +1,4 @@
+langchain-huggingface
+streamlit
+huggingface_hub
+git+https://github.com/langchain-ai/langchain.git
